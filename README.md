@@ -63,10 +63,10 @@ This project is licensed under the **GNU General Public License (GPL)**. This en
 
 ## Creators
 
-Originally created by GeleiaComPepino and Gyro(gyro3630)!
+Originally created by Bryan Rafael Bueno and Gyro(gyro3630)!
 </br>
 </br>
-<img src="https://github.com/GeleiaComPepino.png?size=100" alt="GeleiaComPepino logo" width="100" height="100" style="border-radius:50%;"/>
+<img src="https://github.com/bryanrafaelbueno.png?size=100" alt="GeleiaComPepino logo" width="100" height="100" style="border-radius:50%;"/>
 <img src="https://github.com/MathiasDPX.png?size=100" alt="Gyro logo" width="100" height="100" style="border-radius:50%;"/>
 </br>
 </br>
